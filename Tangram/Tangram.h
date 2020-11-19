@@ -2,11 +2,11 @@
 //  Tangram.h
 //  Tangram
 //
-//  Created by Jordan Kay on 2/22/18.
-//  Copyright © 2018 Jordan Kay. All rights reserved.
+//  Created by Jordan Kay on 5/23/17.
+//  Copyright © 2017 Cultivr. All rights reserved.
 //
 
-#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
 
 //! Project version number for Tangram.
 FOUNDATION_EXPORT double TangramVersionNumber;
